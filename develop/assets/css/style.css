@@ -8,6 +8,11 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 img {
     max-height: 200px;
 }
@@ -15,11 +20,6 @@ img {
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
 }
 
 p {
